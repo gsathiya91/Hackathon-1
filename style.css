@@ -1,0 +1,33 @@
+.brew-list {
+    min-height: 100vh;
+    width: 100vw;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    margin-top: 26px;
+    margin: 0 auto;
+    display: grid;
+  }
+  
+  .brew-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .card {
+    background-color: #b400ffa8;
+    padding: 16px;
+    border-radius: 20px;
+    width: 362px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    color: white;
+  }
+  div p{
+      margin-bottom:0px;
+  }
+  p.brew-name{
+      margin-top:0px;
+  }
+  
